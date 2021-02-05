@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "c4cfed22046266bb5371e28196024f52",
-"index.html": "8a3cdb04dcc903ca3e5518cd2e4610ae",
-"/": "8a3cdb04dcc903ca3e5518cd2e4610ae",
-"main.dart.js": "4ac40da661e72c93cab88ae434228371",
+  "version.json": "8ee27545e607dd1c39de08571ca51ab6",
+"index.html": "859b6e521f025992e9235074d3655e48",
+"/": "859b6e521f025992e9235074d3655e48",
+"main.dart.js": "f73c79f8922250f78db7bf0820a9507f",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
@@ -16,7 +16,7 @@ const RESOURCES = {
 "assets/images/chair-alpha.png": "85a6e3e4ade0d249bef9974000a459ff",
 "assets/images/pavlova.jpg": "ff71e6e00eecea1248151235d7ecd1ba",
 "assets/AssetManifest.json": "e00d7d11c45b62609555674868dd70f4",
-"assets/NOTICES": "dbb63e2e7ac619454e67b66495019d04",
+"assets/NOTICES": "11be5c298e385384a74a1cecc59f75c6",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
